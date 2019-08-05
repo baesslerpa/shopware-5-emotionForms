@@ -8,4 +8,4 @@ window.StateManager
     .addPlugin('.emotion--wrapper:not(.emotion--non-ajax)', 'swEmotionLoader')
     .addPlugin('.emotion--non-ajax *[data-emotion="true"]', 'swEmotion');
 ```
-3. Enter the generate a 'showEmotion' custom field for your forms where you enter the id of the emotion world you want to display
+3. Enter the generate a ```showEmotion``` custom field for your forms where you enter the id of the emotion world you want to display
